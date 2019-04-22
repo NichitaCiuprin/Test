@@ -1,0 +1,34 @@
+[http]
+	sslCAInfo = C:/soft/git/mingw64/ssl/certs/ca-bundle.crt
+	sslBackend = openssl
+[diff "astextplain"]
+	textconv = astextplain
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[credential]
+	helper = manager
+[alias]
+	ada = add -A :/
+	br = branch -a
+	ci = commit
+	co = checkout
+	di = diff
+	dis = diff --staged
+	ff = merge --ff-only
+	lol = log --graph --pretty=format:\"%C(auto)%h%d %s %Cgreen(%cr) %C(bold blue)<a:%aN c:%cN>\"
+	showlist = diff-tree --no-commit-id --name-only -r
+	st = status
+	devdb = sqlcmd -S 10.16.146.12 -U endavauser -P Jupiter2020$ -i in.sql -o out.txt
+	cls = clear
+[color]
+	ui = true
+[core]
+	editor = vim
+[user]
+	name = Nichita Ciuprin
+	email = nichita.ciuprin@endava.com
+[winUpdater]
+	recentlySeenVersion = 2.19.0.windows.1
