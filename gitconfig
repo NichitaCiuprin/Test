@@ -12,21 +12,24 @@
 	helper = manager
 [alias]
 	ada = add -A :/
+	f = fetch
+	pu = push origin +head
 	br = branch -a
 	ci = commit
 	co = checkout
 	di = diff
 	dis = diff --staged
 	ff = merge --ff-only
-	lol = log --graph --pretty=format:\"%C(auto)%h%d %s %Cgreen(%cr) %C(bold blue)<a:%aN c:%cN>\"
+	lol = log --graph --pretty=format:\"%C(auto)%h %Cgreen(%cr) %C(bold blue)<%aN> %Creset %s %C(auto)%d \"
 	showlist = diff-tree --no-commit-id --name-only -r
 	st = status
 	devdb = sqlcmd -S 10.16.146.12 -U endavauser -P Jupiter2020$ -i in.sql -o out.txt
-	cls = clear
+	authors = shortlog -s -n --all --no-merges
 [color]
 	ui = true
 [core]
 	editor = vim
+	autocrlf = true
 [user]
 	name = Nichita Ciuprin
 	email = nichita.ciuprin@endava.com
