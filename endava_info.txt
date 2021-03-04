@@ -1,0 +1,94 @@
+screen_account        
+    nciuprin
+    Demonsoul2146
+WesternUnionEmployeeID 
+    hqintl1\54191312
+    Western Speedpay Elevated Account
+        S54191312WUS
+        Demonsoul2147@
+    security_questions
+        hero raidan
+        first_boss andrei
+        country_dream_vacation japan
+        first_shool pushkin
+        city_first_job kishinev
+        best_friend serghey
+        childhood_best_place cinema
+work_mail Nichita.Ciuprin@endava.com    
+pass_aplication 5421
+https://jenkins-master.nprd-speedpay.com/
+https://eel.endava.com/-/eel-management/
+
+
+http://localhost/tester/index.html?a=cutexas_autopay&b=hybrid&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&k=1&l0=AccountNumber&l1=000315000001
+http://localhost/tester/index.html?b=hybrid&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&k=1&l0=sp_credit_account&l1=000315000001&a=cutexas_autopay
+http://localhost/tester/index.html?a=cutexas_autopay&b=hybrid&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&k=1&l0=AccountNumber&l1=000315000001
+http://localhost/tester/index.html?a=cutexas_autopay&b=hmac_int&d=0&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&g=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789%60~!%40%23%24%25%5E%C3%97*()-_%3D%2B%5B%7B%5D%7D%7C%3B%3A'%22%2C%3C.%3E%2F%3F&k=1&l0=sp_credit_account&l1=000315000001
+http://localhost/tester/index.html?a=cutexas_autopay&b=hybrid&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&k=2&l0=AccountNumber&l1=000315000001&l2=%40error_url&l3=google.com
+http://localhost/tester/index.html?a=cutexas_autopay&b=opentoken&d=2&e=0&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&g=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789%60~!%40%23%24%25%5E%C3%97*()-_%3D%2B%5B%7B%5D%7D%7C%3B%3A'%22%2C%3C.%3E%2F%3F&k=1&l0=subject&l1=000315000001
+http://localhost/tester/index.html?a=cutexas_autopay&b=hmac_ext&c=1&d=0&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&g=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789%60~!%40%23%24%25%5E%C3%97*()-_%3D%2B%5B%7B%5D%7D%7C%3B%3A'%22%2C%3C.%3E%2F%3F&k=2&l0=user_id&l1=test&l2=password&l3=test1!
+http://localhost/tester/index.html?a=cutexas_autopay&b=opentoken_ext&c=1&d=2&e=0&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&g=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789%60~!%40%23%24%25%5E%C3%97*()-_%3D%2B%5B%7B%5D%7D%7C%3B%3A'%22%2C%3C.%3E%2F%3F&k=1&l0=subject&l1=test
+http://localhost/tester/index.html?a=cutexas_autopay&b=hybrid&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&k=2&l0=AccountNumber&l1=000315000001&l2=DebitZIP&l3=75219
+http://localhost/tester/index.html?a=GrangeInsurance&b=GrangeInsurance&d=0&f=fFNS4jTcc+nk2IGUwwzUULs6D2Zs+dzCQwXKnslD3CQ=&k=2&l0=UniqueIdentifier&l1=123123&l2=LineofBusiness&l3=BillingAgent
+https://apptest-dev2.nprd-speedpay.com/accounts/?a=cutexas_autopay&b=hybrid&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&k=1&l0=AccountNumber&l1=000315000001
+https://apptest-dev2.nprd-speedpay.com/accounts/?a=cutexas_autopay&b=opentoken&d=2&e=0&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&g=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789%60~!%40%23%24%25%5E%C3%97*()-_%3D%2B%5B%7B%5D%7D%7C%3B%3A%27%22%2C%3C.%3E%2F%3F&k=1&l0=subject&l1=000315000001
+https://apptest-qa3.nprd-speedpay.com/accounts/?a=honda_qa3&b=hybrid&f=ahAdWHiJumh7lQpFw%2F97dPSdL9ogKN5Tfa9M%2BPnSl6E%3D&k=1&l0=sp_credit_account&l1=00000010000009%20%20%20%20%20%20%20%20
+https://apptest-qa3.nprd-speedpay.com/accounts/?b=spdfrm&f=9nrzJNYm63Xc8XUZUmSKuezvzk1KPWgcTYCVq0Gl82M%3D&k=1&l0=sp_credit_account&l1=0000000014&a=cutexas_autopay
+https://apptest-qa3.nprd-speedpay.com/accounts/?b=spdfrm&f=9nrzJNYm63Xc8XUZUmSKuezvzk1KPWgcTYCVq0Gl82M%3D&k=1&l0=sp_credit_account&l1=000315000001&a=cutexas_autopay
+https://apptest-dev4.nprd-speedpay.com/accounts/?a=GrangeInsurance&b=GrangeInsurance&d=0&f=fFNS4jTcc%2Bnk2IGUwwzUULs6D2Zs%2BdzCQwXKnslD3CQ%3D&k=2&l0=UniqueIdentifier&l1=123123&l2=LineofBusiness&l3=BillingAgent
+https://apptest-qa3.nprd-speedpay.com/accounts/?b=spdfrm&f=9nrzJNYm63Xc8XUZUmSKuezvzk1KPWgcTYCVq0Gl82M%3D&k=1&l0=sp_credit_account&l1=0000000014&a=cutexas_autopay
+https://apptest-bat.uat-speedpay.com/accounts/?a=duquesnelight&b=duqLightSSO&d=2&e=0&f=dd%2F3ppwbf6Kh37lGR1BadhemD5kCL%2BuGnOZ8Y%2BF2l7E%3D&g=8p72%7D%5D')vK%2B%3AxZWtdli%3Ca%2Fzges1f%25yG6V-%3D%3Eo*X&k=1&l0=subject&l1=0000020000
+https://internet.speedpay.com/duquesnelight/sso?cid=duqLightSSO&opentoken=T1RLAQHJcOreNM6pcbcoYcW6FSk0VNrFSBCYeqdAp2gIqljeXZVDUwhTAABwbTHnA_ty1MEJIoEhqIL3C_gLBlAxwQOHjF2bUULTjZl3uQwH0_il_q2WzgTKylEpwUAKLeOzraG-oJi71RFfAUq9oSorCPKsHaD8SZi9D2qAlz-YleWmYo2n9b2KAD5b-al4wunR5pGBJ0h0BC0-NQ**https://apptest-qa3.nprd-speedpay.com/accounts/?b=hybrid&f=MTIzNDEyMzQxMjM0MTIzNDEyMzQxMjM0MTIzNDEyMzQ%3D&k=1&l0=sp_credit_account&l1=0000000014&a=cutexasqa3
+
+
+http://localhost/tester/index.html?%25
+http://localhost/tester/index.html?%
+
+dev
+    cutexas_autopay
+        hybrid, hmac_int, hmac_ext, opentoken
+        secretKey dd/3ppwbf6Kh37lGR1BadhemD5kCL+uGnOZ8Y+F2l7E=
+        pass abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789`~!@#$%^&*()-_=+[{]}|;:'",<.>/?
+        credit_account 000315000001
+        debit_zip 75219
+        birth_year 1987
+        login tabanion2@endava.com 
+        pass Test1234
+    honda
+        db honda_dev2
+        opentoken QNc{.HW3C_*!(Ez2F#G+-~U=i5s'q1?bf80}wKvA
+        account_number 000111222333
+qa 
+    cutexasqa3
+        secret_key MTIzNDEyMzQxMjM0MTIzNDEyMzQxMjM0MTIzNDEyMzQ=
+        credit_account 0000000014
+        debit_zip 12345    
+        birth_year 1987
+    cutexas_autopay
+        login test5@test.com
+        pass asdfgh1!
+        config_id spdfrm
+        secret_key 9nrzJNYm63Xc8XUZUmSKuezvzk1KPWgcTYCVq0Gl82M=
+    honda_qa3
+        login test5@test.com
+        pass asdfgh1!
+        00000010000009 AHFC 33934    
+        00000010000120 NRC  91605    
+        00000010000139 AFC  92345    
+        00000010000418      32501
+    mechanicsbank_qa3
+        24857461001 CRB  85364
+        24857381001 RCRB 94607
+        24857121001 SMS  81252
+    cutexas_walletronqa3
+        00000000011  CUTX 1984        
+        0000000012   FLET 1984             
+        000315414470 CUNY 1984     
+    cutexas_pbt
+        000315401570 CUTX 75010  
+        000315402440 NJC  75219    
+        000315405110 IVRS 75010
+
+"Provider=SQLOLEDB;Network Library=DBMSSOCN;Data Source=DEVDB07A;database=autopay_nextgen;User ID=endavauser;Password=Jupiter2020$"
+"Data Source=DEVDB07a;Initial Catalog=honda_dev2;Integrated Security=True"
+"Data Source=DEVDB07a;Initial Catalog=honda_dev2;User ID=endavauser;Password=Jupiter2020$";
